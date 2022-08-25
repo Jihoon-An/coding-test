@@ -1,6 +1,6 @@
-package lv_1.minusPlusSumnum;
+package lv_1.minusPlusSumNum;
 
-public class MinusPlusSumnum {
+public class MinusPlusSumNum {
     public static void main(String[] args) {
         Solution solution = new Solution();
         int[] absolutes = {4,7,12};
